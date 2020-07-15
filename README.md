@@ -1,3 +1,7 @@
+# React App - Counter
+
+React web application that implements a simple counter screen. It implements tests.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
